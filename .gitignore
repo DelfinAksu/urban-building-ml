@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.venv/
+env/
+urban-ml/
+
+# data files
+data/raw/
+data/processed/
+
+# outputs
+outputs/
+
+# models
+outputs/models/
+*.joblib
+*.pkl
+
+.DS_Store
+Thumbs.db

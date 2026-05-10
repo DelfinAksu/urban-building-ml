@@ -1,0 +1,36 @@
+# Core data science
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14.0          # parquet I/O
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Statistics
+scipy>=1.11
+
+# Geospatial
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+folium>=0.15           # interactive HTML maps
+
+# Machine learning
+scikit-learn>=1.4
+xgboost>=2.0
+
+# Explainability
+shap>=0.44
+
+# HTTP / API for OSM fetch
+requests>=2.31
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.28
+notebook>=7.0
+
+# Utilities
+joblib>=1.3
+tqdm>=4.66
